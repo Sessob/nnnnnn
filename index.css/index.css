@@ -1,0 +1,202 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:beige;
+    color:#323232;
+   
+}
+.container{
+    max-width: 1000px;
+    background-color:#DDD0C8;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+
+header{
+
+}
+
+.photo{
+    height: 200px;
+    width: 240px;
+    float: left;
+    border:solid 3px white;
+    border-radius: 140px;
+}
+
+.chocolate1{
+    color:chocolate;
+}
+
+.headerbio{
+    float: left;
+    padding: 110px;
+}
+.headercontact{
+    float: right;
+    padding: 75px;
+}
+.headercontact a {
+    text-decoration: none;
+    color:chocolate;
+    font-weight: bold;
+
+}
+.headercontact a:hover{
+    color:tomato;
+    text-decoration: underline;
+    background-color: black;
+   
+   
+}
+.div-clear{
+    clear: both;
+    
+}
+
+.firsthrhtml {
+    border: solid 4px black;
+    width: 100%;
+    padding:200px auto;
+    border-bottom: none;
+}
+
+/*-----------
+parsonal information start
+------------------*/
+
+#selection-parsonal{
+    padding: 20px;
+}
+
+.container{
+    margin-bottom: 30px;
+}
+
+
+.photo1{
+    width: 249px;
+    height: 222px;
+    border: 4px black solid;
+    border-radius: 28%;
+}
+
+.div-left{
+    width: 30%;
+    float:left;
+    }
+    
+    .div-right{
+    width: 70%;
+    float:left; 
+
+    }
+    .common-hr{
+     border: solid 4px black;
+    width: 100%;
+    border-bottom: none;
+    }
+
+    
+/*-----------
+kisu somoy
+------------------*/
+
+
+    .content{
+        margin:40px;
+
+    }
+
+  .lef-div2{
+float: left;
+width: 30%;
+  }
+
+  .div-right2{
+float:right;
+width: 70%;
+padding-top: 110px;
+  }
+
+  .photo2{
+    width: 249px;
+    height: 222px;
+    border: 4px black solid;
+    border-radius: 28%;
+    float: left;
+  }
+
+ .common-hr{
+    border:solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin:50px auto;
+  }
+
+  
+/*-----------
+collegelive
+------------------*/
+
+.syudyinformation{
+    margin-bottom: 30px;
+}
+
+.study21{
+   
+}
+
+
+
+.div-left21{
+    float: left;
+    width: 30%;
+   
+}
+
+.div-right211{
+float: right;
+width: 70%;
+margin-top: 100px;
+}
+
+.hrspetisal11{
+border:none;
+}
+.hrwwww{
+ border: 20px solid #DDD0C8;   
+}
+
+
+/*-----------
+footer start
+------------------*/
+
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding:10px;
+}
+
+.bottom-container a{
+    color:white;
+    text-decoration: none;
+    margin: 20px;
+    
+}
+
+.bottom-container a:hover{
+    color:tomato;
+    
+    
+}
+
+.bottom-container p{
+    color:white;
+    margin-top:20px;
+}
